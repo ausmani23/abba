@@ -1,0 +1,6 @@
+# Scratch work, test harnesses and research notes — local only.
+claude_workspace/
+
+# Exports and notes about a real person's body. This repo is PUBLIC (it
+# serves the Pages site); anything exported from the app stays on disk.
+feedback/
