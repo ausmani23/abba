@@ -6,7 +6,7 @@ Guidance for Claude Code when working in this repository.
 
 Abba's exercise app — Adaner's father's copy of the routines PWA. Plain
 HTML/CSS/JS, no framework, no build step. Deployed to GitHub Pages at
-https://ausmani23.github.io/abba/.
+https://adanerusmani.com/abba/.
 
 It is a **sibling of `ausmani23/routines`** (Adaner's app), `ausmani23/tara`
 (his wife's) and `ausmani23/amma` (his mother's). **The shell is shared and
